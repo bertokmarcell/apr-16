@@ -45,6 +45,9 @@ export const ADATOK = [{
     ar: 2415,
     src: "kepekm/6.png",
     db: 0,
-},]
+},];
+
+const termekElem = document.getElementById("termek");
+
 
 
